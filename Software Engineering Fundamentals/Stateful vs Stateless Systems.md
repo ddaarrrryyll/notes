@@ -50,6 +50,78 @@ Client → Same Server (stateful session)
   
 ---  
   
+## Common Confusion Traps
+
+### 1. “Stateful means the system uses a database”
+❌ Incorrect
+
+- Almost all real systems use databases
+- That does NOT make them stateful
+
+✔ Correct meaning:
+- Statefulness refers to **where request-dependent state is stored**
+- DB is external shared state → does not make app stateful
+
+---
+
+### 2. “Preloading data makes a system stateful”
+❌ Incorrect
+
+- Preloaded config / cache / reference data is just optimization
+
+✔ System is still stateless if:
+- Any instance can serve any request
+- Data is not instance-specific or session-dependent
+
+---
+
+### 3. “Stateless means no state exists anywhere”
+❌ Incorrect
+
+✔ Correct:
+- Stateless means **no session/state is stored in the service instance**
+- State is typically externalized (DB, cache, object storage)
+
+---
+
+### 4. “Stateful = request lifecycle holds state”
+❌ Incorrect
+
+- Request lifecycle is always temporary
+- It is not what defines statefulness
+
+✔ Correct:
+- Statefulness depends on **server/instance memory persistence across requests**
+
+---
+
+### 5. “Sticky sessions make a system stateless”
+❌ Incorrect
+
+✔ Correct:
+- Sticky sessions are a workaround for stateful behavior
+- They actually **introduce stateful routing dependency**
+
+---
+
+### 6. “Stateless systems cannot have caching”
+❌ Incorrect
+
+✔ Correct:
+- Stateless systems often rely heavily on caching
+- The key is that cache is **shared or external (e.g. Redis/CDN)**, not instance-bound
+
+---
+
+### Mental Check
+
+Ask:
+
+> “If this instance dies, can another instance handle the next request without loss of correctness?”
+
+- Yes → Stateless
+- No → Stateful
+---
 ## Trade-offs  
   
 | Aspect          | Stateless                    | Stateful                      |  
