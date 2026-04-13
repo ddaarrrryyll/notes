@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering Fundamentals/Stateful vs Stateless Systems.md",
+                "file": "Singleton Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stateful vs Stateless Systems"
+              "title": "Singleton Pattern"
             }
           }
         ]
@@ -196,12 +196,14 @@
   },
   "active": "0ff8d1cdea5a40fd",
   "lastOpenFiles": [
-    "Software Engineering Fundamentals/Distributed Systems.md",
-    "Software Engineering Fundamentals/Software Engineering Fundamentals.md",
+    "Software Engineering Fundamentals/Design Patterns.md",
+    "Singleton Pattern.md",
     "Software Engineering Fundamentals/Databases.md",
+    "Software Engineering Fundamentals/Software Engineering Fundamentals.md",
+    "Software Engineering Fundamentals/Stateful vs Stateless Systems.md",
+    "Software Engineering Fundamentals/Distributed Systems.md",
     "Software Engineering Fundamentals/Distributed Systems/Architecture Patterns",
     "Software Engineering Fundamentals/Distributed Systems",
-    "Software Engineering Fundamentals/Stateful vs Stateless Systems.md",
     "Software Engineering Fundamentals/Databases",
     "Software Engineering Fundamentals/Pessimistic vs Optimistic Locking.md",
     "Software Engineering Fundamentals",
