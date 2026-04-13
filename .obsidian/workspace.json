@@ -194,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16dfa67a43a2def3",
+  "active": "0ff8d1cdea5a40fd",
   "lastOpenFiles": [
-    "Pessimistic vs Optimistic Locking.md",
-    "Concurrency Control.md",
     "Databases.md",
     "Software Engineering Fundamentals.md",
+    "Pessimistic vs Optimistic Locking.md",
+    "Concurrency Control.md",
     "Distributed Systems.md",
     "Consistency and Coordination.md",
     "Operating Systems.md",
