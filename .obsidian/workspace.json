@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering Fundamentals.md",
+                "file": "Software Engineering Fundamentals/Software Engineering Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,12 +196,17 @@
   },
   "active": "0ff8d1cdea5a40fd",
   "lastOpenFiles": [
-    "Pessimistic vs Optimistic Locking.md",
-    "Software Engineering Fundamentals.md",
+    "Software Engineering Fundamentals/Databases.md",
+    "Software Engineering Fundamentals/Software Engineering Fundamentals.md",
+    "Software Engineering Fundamentals/Distributed Systems.md",
+    "Software Engineering Fundamentals/Distributed Systems/Architecture Patterns",
+    "Software Engineering Fundamentals/Distributed Systems",
+    "Software Engineering Fundamentals/Stateful vs Stateless Systems.md",
+    "Software Engineering Fundamentals/Databases",
+    "Software Engineering Fundamentals/Pessimistic vs Optimistic Locking.md",
+    "Software Engineering Fundamentals",
     "Transactions.md",
     "Operating Systems.md",
-    "Distributed Systems.md",
-    "Databases.md",
     "Consistency and Coordination.md",
     "Concurrency and Synchronisation.md",
     "Concurrency Control.md"
