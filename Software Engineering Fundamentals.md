@@ -1,6 +1,3 @@
-
----
-
 ## [[Databases]]
 ### Concurrency Control
 - [[Pessimistic vs Optimistic Locking]]

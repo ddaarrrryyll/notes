@@ -1,3 +1,0 @@
-- [[Mutex]]
-- [[Semaphores]]
-- [[Thread Scheduling]]

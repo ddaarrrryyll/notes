@@ -196,14 +196,14 @@
   },
   "active": "0ff8d1cdea5a40fd",
   "lastOpenFiles": [
-    "Databases.md",
-    "Software Engineering Fundamentals.md",
     "Pessimistic vs Optimistic Locking.md",
-    "Concurrency Control.md",
-    "Distributed Systems.md",
-    "Consistency and Coordination.md",
+    "Software Engineering Fundamentals.md",
+    "Transactions.md",
     "Operating Systems.md",
+    "Distributed Systems.md",
+    "Databases.md",
+    "Consistency and Coordination.md",
     "Concurrency and Synchronisation.md",
-    "Transactions.md"
+    "Concurrency Control.md"
   ]
 }

@@ -1,3 +1,0 @@
-- [[Distributed Locks]]
-- [[Leader Election]]
-- [[Consensus Algorithms]]
