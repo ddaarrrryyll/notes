@@ -1,5 +1,4 @@
 ## [[Databases]]
-
 ## [[Design Patterns]]
 ## [[Distributed Systems]]
 

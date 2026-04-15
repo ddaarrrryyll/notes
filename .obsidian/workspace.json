@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Builder Pattern.md",
+                "file": "Mutex vs Channels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Builder Pattern"
+              "title": "Mutex vs Channels"
             }
           }
         ]
@@ -196,23 +196,24 @@
   },
   "active": "0ff8d1cdea5a40fd",
   "lastOpenFiles": [
-    "Software Engineering Fundamentals/REST vs GRPC.md",
-    "Builder Pattern.md",
-    "Software Engineering Fundamentals/Design Patterns.md",
+    "Operating Systems.md",
+    "Mutex vs Channels.md",
+    "Software Engineering Fundamentals/Databases.md",
     "Software Engineering Fundamentals/Software Engineering Fundamentals.md",
+    "Software Engineering Fundamentals/Design Patterns.md",
+    "Software Engineering Fundamentals/Distributed Systems.md",
+    "Software Engineering Fundamentals/Singleton Pattern.md",
+    "Builder Pattern.md",
+    "Software Engineering Fundamentals/REST vs GRPC.md",
     "Software Engineering Fundamentals.md",
     "Software Engineering Fundamentals/Stateful vs Stateless Systems.md",
-    "Software Engineering Fundamentals/Singleton Pattern.md",
     "Software Engineering Fundamentals/Pessimistic vs Optimistic Locking.md",
-    "Software Engineering Fundamentals/Distributed Systems.md",
-    "Software Engineering Fundamentals/Databases.md",
     "Software Engineering Fundamentals",
     "Pessimistic vs Optimistic Locking.md",
     "Concurrency Control.md",
     "Databases.md",
     "Distributed Systems.md",
     "Consistency and Coordination.md",
-    "Operating Systems.md",
     "Concurrency and Synchronisation.md",
     "Transactions.md"
   ]
