@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mutex vs Channels.md",
+                "file": "Software Engineering Fundamentals/Software Engineering Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mutex vs Channels"
+              "title": "Software Engineering Fundamentals"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "0ff8d1cdea5a40fd",
   "lastOpenFiles": [
-    "Operating Systems.md",
-    "Mutex vs Channels.md",
+    "Software Engineering Fundamentals/Mutex vs Channels.md",
+    "Software Engineering Fundamentals/Operating Systems.md",
     "Software Engineering Fundamentals/Databases.md",
     "Software Engineering Fundamentals/Software Engineering Fundamentals.md",
     "Software Engineering Fundamentals/Design Patterns.md",
